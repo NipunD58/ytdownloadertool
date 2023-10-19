@@ -1,2 +1,2 @@
-# ytdownloadertool
-it downloades videos or audio from a youtube video by using pytube
+# yt downloader tool
+it downloads videos or audio from a YouTube video by using Pytube
